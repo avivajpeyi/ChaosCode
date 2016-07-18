@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0A0715325CE5961D9DB85982FAA3F30FCE213515",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "21E14A777019760B5CAA407E51BA49CB1B2512FD" : 0,
+    "0A0715325CE5961D9DB85982FAA3F30FCE213515" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FB110B2E-D1CD-421B-9857-245A43D27933",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "21E14A777019760B5CAA407E51BA49CB1B2512FD" : "",
+    "0A0715325CE5961D9DB85982FAA3F30FCE213515" : "Code%20Chaos\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ChaosScattering",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ChaosScattering.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/avivajpeyi\/ChaosCode.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0A0715325CE5961D9DB85982FAA3F30FCE213515"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/avivajpeyi\/ChaosScattering_CS200.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "21E14A777019760B5CAA407E51BA49CB1B2512FD"
+    }
+  ]
+}
